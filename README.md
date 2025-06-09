@@ -53,5 +53,6 @@ Reconstruction quality is assessed using **BERT-based cosine similarity**, **Wor
 - Vaswani et al. (2017) – Attention Is All You Need
 
 ---
-Clone the repository:
+
+Clone the repository: 
 git clone https://github.com/kostas362/ASK_NLP
