@@ -45,15 +45,6 @@ Reconstruction quality is assessed using **BERT-based cosine similarity**, **Wor
 
 ---
 
-## 📁 File Structure
-
-├── main.py # Entry point, manages the full pipeline
-├── reconstruction.py # Contains all reconstruction methods
-├── similarity.py # Similarity metrics & visualizations
-└── README.md # Project documentation
-
----
-
 ## 📚 Additional Useful Resources
 
 - *Speech and Language Processing* – Jurafsky & Martin
